@@ -8,3 +8,10 @@
 .headline span {
   color: #36b37e;
 }
+ .card-body li{
+  background: #EBF0EE;
+ }
+
+ .about{
+  background-image: url(./img/illustration-about-me-desktop.svg);
+ }

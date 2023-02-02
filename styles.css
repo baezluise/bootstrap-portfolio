@@ -1,6 +1,10 @@
-.background{
+.background {
   background-position-x: center;
   background-image: url(./img/Header-llustration-desktop.svg);
   background-repeat: no-repeat;
   height: 1037px;
+}
+
+.headline span {
+  color: #36b37e;
 }

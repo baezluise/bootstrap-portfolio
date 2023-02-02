@@ -14,4 +14,6 @@
 
  .about{
   background-image: url(./img/illustration-about-me-desktop.svg);
- }
+  background-repeat: no-repeat;
+  background-position-x: center;
+}

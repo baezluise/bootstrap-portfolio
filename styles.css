@@ -8,12 +8,46 @@
 .headline span {
   color: #36b37e;
 }
- .card-body li{
-  background: #EBF0EE;
- }
+.card-body li {
+  background: #ebf0ee;
+}
 
- .about{
+.about {
+  background-image: url(./img/illustration-about-me-2-desktop.svg);
+  background-repeat: no-repeat;
+  background-position-x: left;
+}
+
+.about-2 {
   background-image: url(./img/illustration-about-me-desktop.svg);
   background-repeat: no-repeat;
-  background-position-x: center;
+  background-position-x: right;
+}
+
+.card-2-body {
+  background: #ebf0ee;
+}
+
+#card-2-title {
+  color: #344563;
+}
+
+.card-2-body li {
+  background: #fff;
+}
+
+.card-2-body span {
+  color: #36b37e;
+}
+
+#form-button {
+  background: #36b37e;
+}
+
+#card-icon {
+  background-color: #ebf0ee;
+}
+
+#form-paragraph {
+  color: #344563;
 }

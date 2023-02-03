@@ -51,3 +51,15 @@
 #form-paragraph {
   color: #344563;
 }
+
+#contact-form {
+  background-image: url(./img/contact-form-illustratoin-right-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#contact-form-2 {
+  background-image: url(./img/contact-form-illustratoin-left-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: left;
+}
